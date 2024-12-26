@@ -1,6 +1,3 @@
-You're absolutely right that certain parts of the content, like sections and instructions, could benefit from additional Markdown syntax for clarity and emphasis. Here's the revised `README.md` with proper Markdown formatting applied throughout:
-
-```markdown
 # ePortfolio
 
 ## Description
