@@ -9,6 +9,7 @@ The ePortfolio is:
 - **Visually appealing**: Focused on aesthetics and accessibility.
 
 ## Live Demo
+
 You can view the live demo of my ePortfolio here: https://marianyecyec.github.io/ePortfolio/
 ---
 
@@ -61,17 +62,9 @@ If you want to contribute to this ePortfolio:
 ---
 
 ## Contact
-For any questions, suggestions, or collaboration requests, feel free to reach out via **email** or **social media**:
+For any questions, suggestions, or collaboration requests, feel free to reach out via **email** :
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
-- **Portfolio URL**: [Your Portfolio](https://your-portfolio-link)
-
----
-
-## Screenshots
-![Home Page](images/homepage.png)
-![Projects Section](images/projects.png)
+- **Email**: yecyec.marianivykate7@gmail.com
 
 ---
 
