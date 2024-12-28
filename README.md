@@ -8,6 +8,8 @@ The ePortfolio is:
 - **User-friendly**: Simple navigation and intuitive design.
 - **Visually appealing**: Focused on aesthetics and accessibility.
 
+## Live Demo
+You can view the live demo of my ePortfolio here: **https://marianyecyec.github.io/ePortfolio/**
 ---
 
 ## Technologies Used
